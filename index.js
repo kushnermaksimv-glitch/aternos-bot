@@ -3,10 +3,10 @@ const express = require('express');
 const fetch = require('node-fetch');
 
 // --- НАСТРОЙКИ СЕРВЕРА ATERNOS ---
-const HOST = 'ВАШ_СЕРВЕР.aternos.me'; // Укажите IP вашего сервера (без порта)
+const HOST = 'IdiakantWorld.aternos.me'; // Укажите IP вашего сервера (без порта)
 const PORT = 25565;                  // Укажите динамический порт, если он есть
 const BOT_NAME = 'Aternos_Guard';     // Никнейм бота
-const VERSION = '1.20.1';             // Версия майнкрафта вашего сервера
+const VERSION = '26.1.2';             // Версия майнкрафта вашего сервера
 // ---------------------------------
 
 let bot;
