@@ -7,7 +7,8 @@
     "start": "node index.js"
   },
   "dependencies": {
-    "mineflayer": "^4.21.0",
+    "mineflayer": "github:PrismarineJS/mineflayer#master",
+    "minecraft-data": "github:PrismarineJS/minecraft-data#master",
     "express": "^4.19.0",
     "node-fetch": "^2.7.0"
   }
