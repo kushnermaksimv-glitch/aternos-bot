@@ -6,7 +6,7 @@ const fetch = require('node-fetch');
 const HOST = 'IdiakantWorld.aternos.me'; // Укажите IP вашего сервера (без порта)
 const PORT = 25565;                  // Укажите динамический порт, если он есть
 const BOT_NAME = 'Aternos_Guard';     // Никнейм бота
-const VERSION = '1.21.1';             // Версия майнкрафта вашего сервера
+const VERSION = '26.1.2';             // Версия майнкрафта вашего сервера
 // ---------------------------------
 
 let bot;
